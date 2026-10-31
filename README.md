@@ -3,7 +3,7 @@
 A piece of art made using Python's turtle of a Canada Post post office.
 Oh boy do I have a story to tell...
 
-So, the story starts back on the 15th of November, 2024, when Canada Post postal workers went on strike because no new agreement was made between Canada Post and the Canadian Union of Postal Workers (CUPW) before the expiry of the previous agreement. The strike was suspended on December 17th, 2024 by the Canada Industrial Relations Board (CIRB), but it still affected us Canadians until the middle of January. 
+So the story starts back on the 15th of November, 2024, when Canada Post postal workers went on strike because no new agreement was made between Canada Post and the Canadian Union of Postal Workers (CUPW) before the expiry of the previous agreement. The strike was suspended on December 17th, 2024 by the Canada Industrial Relations Board (CIRB), but it still affected us Canadians until the middle of January. 
 
 The Canada Industrial Relations Board (CIRB) directed CUPW members back to work under the same collective agreement until May 22nd, 2025. (CUPW did do some strike activity after May 22, 2025, but not to the extend as the last time.) Fast forward to February 2025, a new school semester! With a new semester comes new courses and new things to learn! One of my courses were Intro to Computer Science, and one of the first things we did was turtle Python. (im tired of talking professionally so imma keep it casual now)
 
