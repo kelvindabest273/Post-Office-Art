@@ -30,7 +30,7 @@ so when i heard about stardance, i decided to work on it again! it still isnt fi
   </figcaption>
 </figure>
 
-the plan for next time is that i will add more stars, last time it was 12 stars on the first window and 17 on the other window (because the strike was suspended on 12/17). see yall next year! (/s, i am hopefully going to learn an actual language to make an actual program soon)
+the plan for next time is that i will add more stars and actually finish the drawing, last time it was 12 stars on the first window and 17 on the other window (because the strike was suspended on 12/17). see yall next year! (/s, i am hopefully going to learn an actual language to make an actual program soon and finish this before next summer)
 
 
 
