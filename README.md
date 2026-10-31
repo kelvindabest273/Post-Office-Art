@@ -12,6 +12,7 @@ so we had a project, make a drawing in turtle python, and i thought about the st
 <figure>
   <img width="414" height="414" alt="image" src="https://github.com/user-attachments/assets/482fea37-20eb-44d0-aa80-f2667071bcf2" />
   <figcaption>
+    
     my python turtle drawing for a school project
   </figcaption>
 </figure>
