@@ -8,6 +8,7 @@ This drawing is for the 2024 Canada Post strike, which started on November 15th,
 
 so we had a project, make a drawing in turtle python, and i thought about the strike. i too was affected by the strike since i ordered something in november and it came at the end of december. anyways, i chose to make a drawing of a post office. i got full marks on the project!
 
+
 <figure>
   <img width="414" height="414" alt="image" src="https://github.com/user-attachments/assets/482fea37-20eb-44d0-aa80-f2667071bcf2" />
   <figcaption>
