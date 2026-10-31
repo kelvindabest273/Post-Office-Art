@@ -24,6 +24,7 @@ so when i heard about stardance, i decided to work on it again! it still isnt fi
 <figure>
   <img width="1316" height="774" alt="image" src="https://github.com/user-attachments/assets/dbc89411-0309-443d-8366-b6007964a224" />
   <figcaption>
+    
     the (unfinished) remake of my python art
   </figcaption>
 </figure>
